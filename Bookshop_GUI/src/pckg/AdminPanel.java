@@ -95,7 +95,7 @@ public class AdminPanel extends JPanel {
         EventQueue.invokeLater(new Runnable() {
             @Override
             public void run() {
-                JOptionPane.showMessageDialog(message, "Pogrešna lozinka ili username! Pokušajte ponovno.", "Pogreška", 1);
+                JOptionPane.showMessageDialog(message, "Wrong password or admin name! Wrong input.", "Pogreška", 1);
             }
         });
     }
