@@ -1,2 +1,0 @@
-BookShopPanelFormEvent{bookInShopName='Ulysses by James Joyce', typeOfCoverOfBook=' Hardcover with Dust Jacket', masterCardPayment='MasterCard', visaCardPayment='Visa', americanExpressPayment='Express delivery', normalDelivery='Normal delivery', ExpressDelivery='null'}
-CustomerInfoFormPanelEvent{cstName='ew', cstLastName='ewwe', cstAddress='ewe', cstEmail='wew'}
